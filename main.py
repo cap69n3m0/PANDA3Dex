@@ -1,1 +1,4 @@
-print("me la pelas")
+def main():
+    print("asdas")
+    return 0
+main()
